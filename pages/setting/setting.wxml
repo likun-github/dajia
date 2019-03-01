@@ -1,0 +1,12 @@
+<!--pages/setting/setting.wxml-->
+
+  <swiper indicator-dots='true'>
+    <block wx:for="{{picture}}" wx:key="*this" >
+      <swiper-item>
+        <image src="{{item}}"></image>
+      </swiper-item>
+   </block>
+
+  </swiper>
+
+

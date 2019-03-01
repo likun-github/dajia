@@ -1,0 +1,19 @@
+
+<view class='container'>
+  <image src='../../static/pic/8.jpg' class='top'></image>
+  <image src='../../static/pic/8.jpg' class='cicle'></image>
+  <view class='show'>未登录</view>
+  <view class='middle'>
+       <view class='content' >个人认证</view>
+       <view class='line1'></view>
+       <view class='content'>联系我们</view>
+       <view class='vacant'></view>
+       <view class='content'>大家团购记录</view>
+       <view class='line1'></view>
+       <view class='content'>加入我们</view>
+  </view>
+  
+
+</view>
+
+

@@ -1,0 +1,47 @@
+/* pages/cutting/cutting.wxss */
+@import "../../common/index.wxss";
+.top{
+  position: relative;
+  margin-top: -200rpx;
+  width: 100%;
+  height: 500rpx;
+}
+
+.cicle{
+  position: absolute;
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 100rpx;
+}
+.show{
+  position: absolute;
+  width: 50rpx;
+  height: 170rpx;
+  background-color: pink;
+  color: white;
+}
+.middle{
+  position: relative;
+  width: 100%;
+  height: 400rpx;
+}
+.content{
+  position: relative;
+  padding-left: 100rpx;
+  padding-top: 30rpx;
+  color: black;
+  padding-bottom: 20rpx;
+  background-color: white;
+}
+.vacant{
+  position: relative;
+  width: 100%;
+  height: 50rpx;
+  background-color: grey;
+}
+.line1{
+  position: relative;
+  width: 100%;
+  height: 5rpx;
+  background-color: grey;
+}
